@@ -1,0 +1,26 @@
+Customer_ID,Name,City,Purchase_Amount,DOB,Customer_Age
+1001,Arjun Sharma,Delhi,2200.28,2005-06-04,21
+1002,Ananya Iyer,Mumbai,1859.03,1994-02-18,32
+1003,Rahul Verma,Pune,2637.6378260869565,2001-01-19,25
+1004,Sana Khan,Hyderabad,2402.03,2000-02-04,26
+1005,Vikram Singh,Pune,2874.47,2004-12-25,22
+1006,Priya Das,Chennai,2297.48,1993-07-08,33
+1007,Amit Patel,Mumbai,3466.42,1999-06-01,27
+1008,Sneha Reddy,Chennai,1025.27,1990-09-26,36
+1009,Ishaan Malhotra,Chennai,1992.45,1990-11-06,36
+1010,Meera Joshi,Delhi,4762.3,1996-12-08,30
+1011,Karan Gill,Chennai,2920.16,2002-02-20,24
+1012,Aditi Rao,Chennai,3567.28,1994-03-04,32
+1013,Guest Customer,Delhi,3646.05,1994-01-17,32
+1014,Zoya Sheikh,Jodhpur,4912.18,1994-04-17,32
+1015,Varun Nair,Pune,3381.3,1995-06-18,31
+1016,Deepika Pal,Jodhpur,1786.81,1995-10-20,31
+1017,Siddharth Bose,Bangalore,1230.34,2001-10-19,25
+1018,Kriti Jain,Hyderabad,1185.43,1993-11-25,33
+1019,Yash Kapoor,Chennai,4121.01,2002-05-17,24
+1020,Tanvi Shah,Pune,1554.81,1992-01-28,34
+1021,Akash Mishra,Chennai,2637.6378260869565,1994-07-10,32
+1022,Riya Sen,Mumbai,1901.47,2003-02-12,23
+1023,Manish Pandey,Pune,1052.08,1995-08-19,31
+1024,Nisha Choudhury,Chennai,3316.63,1998-01-28,28
+1025,Sahil Tyagi,Chennai,3210.39,2003-11-01,23
